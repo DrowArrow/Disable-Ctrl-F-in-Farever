@@ -1,5 +1,5 @@
 # Introduction
-This AutoHotkey script is designed to disable "Ctrl + F" when Farever is the active window (allowing you to keep using ctrl + f in other applications without any issue while the script is running.) 
+This AutoHotkey script is designed to disable `ctrl + f` when Farever is the active window (allowing you to keep using `ctrl + f` in other applications without any issue while the script is running.) 
 
 ## Releases
 there are two releases currently for this project 
